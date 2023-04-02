@@ -10,4 +10,4 @@ After the job fair, I was very uplifted and determined to get new skills and sta
 The automation part of testing is very alluring for me, I loved working with software, testing applications, and developing my digital skills.
 I'm pleased that I can do that with Dare It. I believe that I will be a good tester able to automate tests.
                                                                                    
-                                                                                                            AGA
+                                                                                                                                          AGA
