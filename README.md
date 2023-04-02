@@ -11,3 +11,5 @@ The automation part of testing is very alluring for me, I loved working with sof
 I'm pleased that I can do that with Dare It. I believe that I will be a good tester able to automate tests.
                                                                                    
                                                                                                                                           AGA
+Task 1 ISTQB Quiz results
+9/14
