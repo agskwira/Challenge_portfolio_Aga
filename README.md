@@ -19,27 +19,27 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 
 ###Subtask 2 Searching for selectors on the login page
 
-Scouts_Panel_header_xpath
+- Scouts_Panel_header_xpath
 //*[@id="__next"]/form/div/div[1]/h5
 //*[text()="Scouts Panel"]
 //child::div/h5
-login_field_xpath
+- login_field_xpath
 //*[@id="__next"]/form/div/div[1]/div[1]/div[1]//input
 //*[@name="login"]
 //*[@type="text"]
-password_field_xpath
+- password_field_xpath
 //*[@id="__next"]/form/div/div[1]/div[2]/div[1]//input
 //*[@name="password"]
 //*[@type="password"]
-sign_in_button_xpath
+- sign_in_button_xpath
 //*[@id="__next"]/form/div/div[2]/button//span
 //*[@class="MuiButton-label"]
 //child::div/button//span
-remind_password_hyperlink_xpath
+- remind_password_hyperlink_xpath
 //*[@id="__next"]/form/div/div[1]/a
 //*[text()="Remind password"]
 //child::div/a
-language_listbox_xpath
+- language_listbox_xpath
 //*[@id="__next"]/form/div/div[2]/div[1]//div
 //*[@role="button"]
 //*[@aria-haspopup="listbox"]
