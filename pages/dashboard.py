@@ -17,7 +17,7 @@ class Dashboard(BasePage):
     scouts_panel_title_xpath="//*[text()='Scouts Panel']"
     scouts_panel_text_xpath="//*[@class='jss4']/main/div[3]/div[1]/div[1]/div[2]/p"
     dev_team_contact_hyperlink_xpath="//*[@class='jss4']/main/div[2]/div[1]/div[1]/div[2]/b"
-    title_of_page="//*[text()='Scouts panel']"
+    title_of_page="//*[text()='Scouts Panel']"
 
-    expected_title = "Scout panel"
+    expected_title ="Scouts Panel"
     dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
