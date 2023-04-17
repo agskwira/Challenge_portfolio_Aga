@@ -9,8 +9,6 @@ from pages.login_page import LoginPage
 from pages.base_page import BasePage
 
 
-
-
 class TestLogInPage(unittest.TestCase):
 
     @classmethod
@@ -24,13 +22,13 @@ class TestLogInPage(unittest.TestCase):
 
     def test_log_in_to_theSystem(self):
         user_login = LoginPage(self.driver)
-        user_login.title_of_page
+        user_login.title_of_page()
         user_login.type_in_email('user01@getnada.com')
         user_login.type_in_password('Test-1234')
-        user_login.click_on_sign_in_button
+        user_login.click_on_sign_in_button()
         time.sleep(5)
         dashboard_page = Dashboard(self.driver)
-        dashboard_page.title_of_page
+        dashboard_page.title_of_page()
         time.sleep(5)
 
     @classmethod
