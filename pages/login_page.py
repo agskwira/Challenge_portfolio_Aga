@@ -1,4 +1,5 @@
 from pages.base_page import BasePage
+import time
 
 
 class LoginPage(BasePage):
@@ -10,7 +11,7 @@ class LoginPage(BasePage):
     language_listbox_xpath = "//*[@id='__next']/form/div/div[2]/div[1]//div"
 
     expected_title = "Scouts panel - sign in"
-    login_url = "https://scouts-test.futbolkolektyw.pl/login"
+    login_url = "https://scouts-test.futbolkolektyw.pl/en"
 
     def type_in_email(self, email):
         self.field_send_keys(self.login_field_xpath, email)
@@ -22,4 +23,5 @@ class LoginPage(BasePage):
         self.click_on_the_element(self.sign_in_button_xpath)
 
     def title_of_page(self):
+        time.sleep(2)
         assert self.get_page_title() == self.expected_title
