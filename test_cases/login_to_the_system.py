@@ -26,8 +26,8 @@ class TestLogInPage(unittest.TestCase):
         user_login.type_in_password('Test-1234')
         user_login.click_on_sign_in_button()
         time.sleep(5)
-        dashboard_page = Dashboard(self.driver)
-        dashboard_page.title_of_page()
+        login_page = LoginPage(self.driver)
+        login_page.title_of_page()
         time.sleep(5)
 
     @classmethod

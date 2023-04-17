@@ -9,7 +9,7 @@ class LoginPage(BasePage):
     remind_password_hyperlink_xpath ="//*[@id='__next']/form/div/div[1]/a"
     language_listbox_xpath ="//*[@id='__next']/form/div/div[2]/div[1]//div"
 
-    expected_title ="Scouts Panel"
+    expected_title = "Scouts panel - sign in"
     login_url = "https://scouts-test.futbolkolektyw.pl/login"
 
     def type_in_email(self, email):

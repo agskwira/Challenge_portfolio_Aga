@@ -19,5 +19,5 @@ class Dashboard(BasePage):
     dev_team_contact_hyperlink_xpath="//*[@class='jss4']/main/div[2]/div[1]/div[1]/div[2]/b"
     title_of_page="//*[text()='Scouts Panel']"
 
-    expected_title ="Scouts Panel"
+    expected_title ="Scouts panel - sign in"
     dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
