@@ -18,10 +18,13 @@ class Dashboard(BasePage):
     scouts_panel_text_xpath = "//*[@class='jss4']/main/div[3]/div[1]/div[1]/div[2]/p"
     dev_team_contact_hyperlink_xpath = "//*[@class='jss4']/main/div[2]/div[1]/div[1]/div[2]/b"
     title_of_page = "//*[text()='Scouts Panel']"
+    add_player_button_xpath ="//*[text()='Add player']"
 
     expected_title = "Scouts panel"
     dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
 
     def title_of_page(self):
         time.sleep(2)
-        assert self.get_page_title() == self.expected_title
+        assert self.get_page_title(self.dashboard_url) == self.expected_title
+    def click_on_add_player_button(self):
+         self.click_on_the_element(self.add_player_button_xpath)
