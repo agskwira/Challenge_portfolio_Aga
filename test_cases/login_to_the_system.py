@@ -29,7 +29,7 @@ class TestLogInPage(unittest.TestCase):
         time.sleep(5)
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
-        time.sleep(5)
+        dashboard_page.click_on_add_player_button()
 
 
     @classmethod

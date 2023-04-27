@@ -26,10 +26,8 @@ class TestAddPlayer(unittest.TestCase):
         user_login.type_in_email('user01@getnada.com')
         user_login.type_in_password('Test-1234')
         user_login.click_on_sign_in_button()
-        time.sleep(5)
         dashboard_page = Dashboard(self.driver)
         dashboard_page.click_on_add_player_button()
-        time.sleep(5)
         add_player_page = Dashboard(self.driver)
         add_player_page.title_of_page()
 
