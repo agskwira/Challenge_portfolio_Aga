@@ -24,8 +24,8 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 
 ### Subtask 4 ISTQB 
 <details>
-<summary> Quiz results </summary>
-9/14
+<summary> :question: Quiz results </summary>
+:ok:9/14
 </details>
 
 ## Task 2 Selectors
