@@ -19,6 +19,15 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 ## Task 2 Selectors
 
 ### Subtask 2 Searching for selectors on the login page
+<details>
+<summary>:woman_student:Thanks to this task I get to know:</summary>
+	
+* What are selectors 
+* Where I can find selectors
+* How to write xPath selectors
+* How to choose the best selectors
+</details>
+ 
  <details>
 <summary> Pages selectors</summary>
 
