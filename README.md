@@ -100,5 +100,16 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
  ### Subtask 3 Tests movies
  
  :link: https://drive.google.com/drive/folders/1eAOhra5gpdTXWKLyT9nT1tKIppb7--Vc?usp=share_link
+ 
+ ## Task 5  Robot Framework
+ 
+ <details>
+<summary>:woman_student:Thanks to this task I get to know:</summary>
+	
+* What that Smoke Tests 
+* How to configure Suit Test
+* What is robot framework
+* How to generate report 
+</details>
 
  
