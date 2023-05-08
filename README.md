@@ -21,8 +21,9 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 ### Subtask 2 Searching for selectors on the login page
  <details>
 <summary> Pages selectors</summary>
-           - Scouts_Panel_header_xpath
-             - //*[@id="__next"]/form/div/div[1]/h5
+
+ - Scouts_Panel_header_xpath
+  - //*[@id="__next"]/form/div/div[1]/h5
   - //*[text()="Scouts Panel"]
   - //child::div/h5
  - login_field_xpath
