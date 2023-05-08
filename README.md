@@ -51,4 +51,6 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 	
 ## Task 3 First automation test and asserts
 
-:woman_student: In this task I nlearned
+<details>
+	<summary>:woman_student: In this task I learned:</summary>
+ 
