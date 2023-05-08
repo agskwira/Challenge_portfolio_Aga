@@ -1,5 +1,15 @@
 ## Task 1 Software configuration
 
+<details>
+<summary>:woman_student:Thanks to this task I get to know:</summary>
+	
+* Eksploatory tests 
+* Necessary Software to automate testing
+* How to create Github repository 
+* How to clone Github repository
+* How to format README file 
+</details>
+
 ### Subtask 1 Why I did decide to participate in Dare IT Challenge?
 
 One year ago I decide to change my profession definitely. Then I started learning testing on my own. I passed ISTQB exam and learned some new skills
