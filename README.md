@@ -112,7 +112,7 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 * How to generate report 
 </details>
 
-##Task 6 Bug reports and Tests reports
+## Task 6 Bug reports and Tests reports
 
  <details>
 <summary>:woman_student:Thanks to this task I get to know:</summary>
