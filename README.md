@@ -54,9 +54,10 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 <details>
 	<summary>:woman_student:Thanks to this task I get to know:</summary>
 	
-	* PyCharm Framework
-	* How to click on page elements
-	* How to fill fields with text
-	* How to use assert title
-	* How to run automation test
+	 * PyCharm Framework
+	 * How to click on page elements
+	 * How to fill fields with text
+	 * How to use assert title
+	 * How to run automation test
+</details>
  
