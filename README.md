@@ -22,9 +22,11 @@ The automation part of testing is very alluring for me, I loved working with sof
 I'm pleased that I can do that with Dare It. I believe that I will be a good tester able to automate tests.:smiley:
                                                                                    
 
-### Subtask 4 ISTQB Quiz results
-
+### Subtask 4 ISTQB 
+<details>
+<summary> Quiz results </summary>
 9/14
+</details>
 
 ## Task 2 Selectors
 
