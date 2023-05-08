@@ -113,12 +113,25 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 </details>
 
 ##Task 6 Bug reports and Tests reports
+
  <details>
 <summary>:woman_student:Thanks to this task I get to know:</summary>
 	
-* How use automate tests to finding bugs
+* How to use automated tests to find bugs
 * How to write bug report
-* How to write test report
-* How to create portfolio 
+* How to write a test report
+* How to create a portfolio in README file
 </details>
+
+### Subtask 2 Bug report
+
+:link: https://docs.google.com/spreadsheets/d/1xSeHVgHfjHilGcWbqVagT-oJvZXe5Su4bsqHYpNS4-I/edit?usp=share_link
+
+### Subtask 3 Tests report
+
+:link: https://docs.google.com/spreadsheets/d/1fRZP7MfdG9GO1nnrfrsnv-x_iL6daoWyTxRKKpJ5MBE/edit?usp=share_link
+
+### Subtask 4 Portfolio
+
+:link:
  
