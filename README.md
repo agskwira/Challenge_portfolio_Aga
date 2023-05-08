@@ -47,5 +47,6 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
    - //*[@role="button"]
    - //*[@aria-haspopup="listbox"]
 <\details>
+	
 ## Task 3 First automation test and asserts
 	:woman_student: In this task Ilearned
