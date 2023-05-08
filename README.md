@@ -81,4 +81,16 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 * How to use assert title
 * How to run automation test
 </details>
+
+## Task 4 Refactor, debugger and test cases
+
+<details>
+<summary>:woman_student:Thanks to this task I get to know:</summary>
+	
+* How to preform code refactor
+* How to work with debugger
+* How to write test cases
+* How to automate website using TC
+</details>
+
  
