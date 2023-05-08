@@ -92,5 +92,12 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 * How to write test cases
 * How to automate website using TC
 </details>
+ ### Subtask 1 Writing Test cases
+ 
+ :link: https://docs.google.com/spreadsheets/d/134noooR1Z6IQK7ywN1-JaquA1C6fzejA/edit?usp=share_link&ouid=101471762458599150702&rtpof=true&sd=true
+ 
+ ### Subtask 3 Tests movies
+ 
+ :link: https://drive.google.com/drive/folders/1eAOhra5gpdTXWKLyT9nT1tKIppb7--Vc?usp=share_link
 
  
