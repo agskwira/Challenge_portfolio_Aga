@@ -46,7 +46,8 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
    - //*[@id="__next"]/form/div/div[2]/div[1]//div
    - //*[@role="button"]
    - //*[@aria-haspopup="listbox"]
-<\details>
+	
+</details>
 	
 ## Task 3 First automation test and asserts
 	:woman_student: In this task Ilearned
