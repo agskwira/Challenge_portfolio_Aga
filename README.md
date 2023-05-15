@@ -128,7 +128,7 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 
 ### Subtask 2 Bug report
 
-:link: https://docs.google.com/spreadsheets/d/1xSeHVgHfjHilGcWbqVagT-oJvZXe5Su4bsqHYpNS4-I/edit?usp=share_link
+:link: [Bug report] (https://docs.google.com/spreadsheets/d/1xSeHVgHfjHilGcWbqVagT-oJvZXe5Su4bsqHYpNS4-I/edit?usp=share_link)
 
 ### Subtask 3 Tests report
 
