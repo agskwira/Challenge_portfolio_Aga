@@ -137,5 +137,5 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 
 ### Subtask 4 Portfolio
 
-:link: In progress, I need more time
+:link:[My Portfolio](https://github.com/agskwira/AgnieszkaSkwira_Portfolio)
  
