@@ -94,11 +94,11 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 
  ### Subtask 1 Writing Test cases
  
- :link: https://docs.google.com/spreadsheets/d/134noooR1Z6IQK7ywN1-JaquA1C6fzejA/edit?usp=share_link&ouid=101471762458599150702&rtpof=true&sd=true
+ :link:[Test cases](https://docs.google.com/spreadsheets/d/134noooR1Z6IQK7ywN1-JaquA1C6fzejA/edit?usp=share_link&ouid=101471762458599150702&rtpof=true&sd=true)
  
  ### Subtask 3 Tests movies
  
- :link: https://drive.google.com/drive/folders/1eAOhra5gpdTXWKLyT9nT1tKIppb7--Vc?usp=share_link
+ :link:[Movies](https://drive.google.com/drive/folders/1eAOhra5gpdTXWKLyT9nT1tKIppb7--Vc?usp=share_link)
  
  ## Task 5  Robot Framework
  
@@ -113,7 +113,7 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 
 ### Subtask 1 Robot framework 
 
-:link: https://github.com/agskwira/panelscout_robotframework
+:link:[Robot framework repository](https://github.com/agskwira/panelscout_robotframework)
 
 ## Task 6 Bug reports and Tests reports
 
@@ -132,7 +132,7 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 
 ### Subtask 3 Tests report
 
-:link: https://docs.google.com/spreadsheets/d/1fRZP7MfdG9GO1nnrfrsnv-x_iL6daoWyTxRKKpJ5MBE/edit?usp=share_link
+:link:[test report](https://docs.google.com/spreadsheets/d/1fRZP7MfdG9GO1nnrfrsnv-x_iL6daoWyTxRKKpJ5MBE/edit?usp=share_link)
 
 ### Subtask 4 Portfolio
 
