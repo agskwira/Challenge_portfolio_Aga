@@ -29,8 +29,6 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 </details>
 
 ## Task 2 Selectors
-
-### Subtask 2 Searching for selectors on the login page
 <details>
 <summary>:woman_student:Thanks to this task I get to know:</summary>
 	
@@ -39,7 +37,8 @@ I'm pleased that I can do that with Dare It. I believe that I will be a good tes
 * How to write xPath selectors
 * How to choose the best selectors
 </details>
- 
+
+### Subtask 2 Searching for selectors on the login page
  <details>
 <summary> Pages selectors</summary>
 
