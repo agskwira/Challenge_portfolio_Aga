@@ -1,3 +1,4 @@
+# Introduction to Automated Tests
 ## Task 1 Software configuration
 
 <details>
